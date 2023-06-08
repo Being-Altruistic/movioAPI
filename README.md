@@ -9,4 +9,4 @@ Concepts Covered:
 .5 Ordering
 .6 Searching
 .7 REST API
-.78 Serializers
+.8 Serializers
